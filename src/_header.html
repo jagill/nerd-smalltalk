@@ -9,7 +9,13 @@
   <link rel="stylesheet" type="text/css" href="/main.css">
 </head>
 <body>
-  <div class="wrapper">
-    <div class="sidebar">
-    </div>
-    <div class="page-content">
+  <header id="header">
+    <h1>Nerd Smalltalk</h1>
+    <p class="subheader"><em>Stuff that's worth talking about.</em></p>
+    <ul>
+      {{#each menuItem}}
+        <li><a href={{ href }}>{{ title }}</a>
+      {{/each}}
+    </ul>
+  </header>
+  <div id="main" class="page-content">

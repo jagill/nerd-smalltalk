@@ -12,6 +12,8 @@
     "coffee-script": "^1.10.0",
     "gulp": "^3.9.1",
     "gulp-footer": "^1.0.5",
+    "gulp-handlebars-render": "0.0.1",
+    "gulp-hb": "^4.0.3",
     "gulp-header": "^1.7.1",
     "gulp-marked": "^1.0.0",
     "gulp-sass": "^2.2.0"
