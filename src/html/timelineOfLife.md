@@ -11,14 +11,23 @@ _Hadean Eon_, and Earth was mostly molten and volcanic, although there is
 evidence of water.
 
 The next Eon, the _Archean Eon_, lasted from 4 BYA to 2.5 BYA.  There was almost
-no free oxygen, although there was prevelant water.  By the end of the Archean,
-the first continents were formed.  Life began in the Archaen, around 3.8-3.7
-BYA, recorded in Banded Iron Formations.  At 3.5 BYA, the Bacteria and the
-Archaea split.  At 3 BYA, photosynthesizing cyanobacteria
-form, and start to produce oxygen.
+no free oxygen, although there was prevalent water.  By the end of the Archean,
+the first continents were formed.  There is evidence that life began in the very
+early Archaen, although we are unsure of the form of the first life[1].  There
+is controversial evidence at 4.1 BYA, and stronger evidence around 3.8-3.7 BYA,
+recorded in
+[Banded Iron Formations](https://en.wikipedia.org/wiki/Banded_iron_formation).
+
+By 3.5 BYA, life was [prokaryotic](https://en.wikipedia.org/wiki/Prokaryote),
+and the first great phylogenetic split occurred between the Bacteria and the
+Archaea.  At 3 BYA, photosynthesizing cyanobacteria form, and start to produce
+oxygen.
 
 TLDR:
 - 4 BYA Life happened.
+
+[1] Check out the [RNA world](https://en.wikipedia.org/wiki/RNA_world)
+hypothesis for an interesting discussion of a possible early mechanism.
 
 Pre-Animal Life
 ---------------
@@ -34,7 +43,7 @@ Eukaryotes and eventually multi-cellular organisms.
 The first evidence of eukaryotes occurs 2 BYA, they became structurally
 complex around 1.5 BYA, and developed sexual reproduction around 1 BYA.
 Around 750 million years ago (MYA), Eukaryotes become more modern with
-Paramecia and Amoeba appearing.  This is also when the first differentiation
+Paramecia and Amoebae appearing.  This is also when the first differentiation
 between plant-like and animal-like cells evolves.
 
 Viruses (specifically, Bacteriophages) appear about the time of the Eukaryote
