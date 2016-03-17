@@ -1,5 +1,9 @@
 Timeline of Life
 ================
+Once Earth was a barren rock; now it is teeming with diverse life.  When did
+life first start, and how did it evolve into humans?  When were the first
+animals?  Was there a time when amphibians ruled the land?  This NST will
+answer those questions, and many more.
 
 Earth's Formations and Pre-Life
 -------------------------------
@@ -13,7 +17,7 @@ evidence of water.
 The next Eon, the _Archean Eon_, lasted from 4 BYA to 2.5 BYA.  There was almost
 no free oxygen, although there was prevalent water.  By the end of the Archean,
 the first continents were formed.  There is evidence that life began in the very
-early Archaen, although we are unsure of the form of the first life[1].  There
+early Archaen, although we are unsure of its first form[1].  There
 is controversial evidence at 4.1 BYA, and stronger evidence around 3.8-3.7 BYA,
 recorded in
 [Banded Iron Formations](https://en.wikipedia.org/wiki/Banded_iron_formation).
@@ -32,7 +36,7 @@ hypothesis for an interesting discussion of a possible early mechanism.
 Pre-Animal Life
 ---------------
 
-The _Proterozoic_ Eon comprises of 2.5 BYA to 0.5 BYA, and sets the stage --
+The _Proterozoic_ Eon extends from 2.5 BYA to 0.5 BYA, and sets the stage --
 through oxygenation and experimentation -- for the complex life in the Cambrian
 and beyond.  The cyanobacteria (and later eukaryotes) produced oxygen, which is
 toxic to many bacteria and archaea.  This caused the first great extinction
@@ -52,14 +56,14 @@ split, perhaps 2 BYA.
 Throughout the Proterozoic, various multi-cellular (or at least collective)
 life forms get their start, but only at the very end do the ancestors of
 current multi-cellular organisms start appearing.  One of the most famous of
-this is the "Ediacaran Experiment" (575 MYA), which occurs shortly after a
+this is the _Ediacaran Experiment_ (575 MYA), which occurs shortly after a
 period of global glaciation dubbed "Snowball Earth".  The earliest fungi also
 appear at this time.
 
 TLDR:
 - 2 BYA Eukaryotes evolved, and viruses appeared.
 - 1 BYA First time anything had sex.
-- Oxygen killed most things but those that could use it got great power.
+- Oxygen killed most things but those that could use it obtained great power.
 
 The Start of "Modern" Life
 --------------------------
@@ -163,7 +167,7 @@ of the south and the placental mammals of the north collided, generally to
 the detriment of the marsupials.  Australopithecus, the beginnings of the
 _hominins_ (the human branch), evolved at the end of the Neogene.
 
-The _Quaternary_ (3 MYA to present) saw the arrival of the (most recent) Ice Age,
+The _Quaternary_ (3 MYA to present) saw the arrival of the (most recent) Ice Age[2],
 with four major glaciation events with ice caps advancing as far as 40N
 latitude (approximately Philadelphia or Madrid).  Approximately 200 thousand
 years ago (200 KYA) anatomically modern Homo Sapiens developed, and about
@@ -177,6 +181,10 @@ TLDR:
 - 25 MYA Most forms of mammals had evolved.
 - 3 MYA The current ice age started; hominins evolve.
 - 12 KYA The most recent glaciation ended, human history begins
+
+[2] What the lay person calls an Ice Age, the climate scientist calls a
+_glaciation_.  An Ice Age is defined as when the earth has permanent glaciers,
+like those in Greenland or Antarctica.  We technically live an _interglacial_ period in an Ice Age.
 
 Summary
 -------

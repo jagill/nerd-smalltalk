@@ -3,7 +3,7 @@ Hominin Evolution
 
 Hominins -- the evolutionary line of humans -- started out as just another ape,
 local to Africa and not particularly special.  They evolved to creatures that
-dominate the planet.  In this note, we'll talk about the time from when they
+dominate the planet.  In this NST, we'll talk about the time from when they
 diverged from the other primates, to when humans had eliminated all other
 hominins and spread across the world.
 
@@ -25,40 +25,37 @@ somewhere between 60 and 55 MYA.   Primates were a very successful and diverse
 group, our cousins the apes split from the rest of the primates around 15-20 MYA.
 
 The line that includes humans split from that of the rest of the great apes
-around 7.5 MYA; this line is called the _hominins_[1].  It used to
-be called the _hominids_, but that term now refers to all of the great apes,
-although some people still use it in the old sense.  For about 7 million years,
+around 7.5 MYA; this line is called the _hominins_[1].  For about 7 million years,
 hominins were confined to Africa, but there were a wide number of species -- in
 fact, every year it seems we discover another new hominin species.
 
-[1] Confusingly, the clade that includes both the hominins and the chimpanzees
+[1] It used to be called the _hominids_, but that term now refers to all of the
+great apes, although some people still use it in the old sense.  Confusingly,
+the clade that includes both the hominins and the chimpanzees
 is called _Homininae_.
 
 Australopithecus
 -----------------
-About 3.6 million years ago, Equatorial Africa was home to a variety of
+About 3.5 MYA, equatorial Africa was home to a variety of
 primates, including the first bipedal genus, _Australopithecus_.  Similar in
 size and brain capacity to modern bonobos and chimpanezees, there is evidence
 for some cognitive genetic changes and tool use, and the appearance of
 morphologically "modern" traits.  Australopiths are believed to be the ancestor
-taxon to the genus Homo, in which humans (H. sapiens sapiens) reside.  There
-were many species in this genus[2], and it's unclear which species gave rise to
+taxon to the genus _Homo_, in which humans (_H. sapiens sapiens_) reside.  There
+were many species in this genus, and it's unclear which species gave rise to
 _Homo_.  The famous Lucy is a member of _A. afarensis_.  Australopiths died
 out about 2 MYA.
-
-[2] Several species, such as _A. robustus_ and _A. boisei_, are considered by some
-to be members of a separate genus _Paranthropus_, which is a sister taxon to
-_Homo_ (and thus not our direct ancestors).
-
 
 The Paleolithic
 ---------------
 The Paleolithic (or Old Stone Age) was the period from the demonstrated use of
 stone tools by hominins (c. 3.3 MYA), to the end of the last ice age (c. 10,000
-ya).  It starts with hominins being just another clade, and ends with _Homo
-sapiens_ beginning to dominate the planet.  Tools evolved from a very primitive generic stone axe, to a bewildering array of carefully crafted specialized instruments. The 3 million years of the Paleolithic are broken down into the
-Lower, Middle, and Upper Paleolithic, representing increasingly levels of
-cultural and technological sophistication.
+years ago).  It starts with hominins being just another clade, and ends with
+_Homo sapiens_ beginning to dominate the planet.  Tools evolved from a very
+primitive generic stone axe, to a bewildering array of carefully crafted
+specialized instruments. The 3 million years of the Paleolithic are broken down
+into the Lower, Middle, and Upper Paleolithic, representing increasingly levels
+of cultural and technological sophistication.
 
 ### Lower Paleolithic
 The _Lower Paleolithic_ starts with the first stone tools found, about 3.3 MYA,
@@ -66,21 +63,26 @@ and ends around 300 thousand years ago (KYA), when tool-making and hominin
 culture become significantly more complex.  We don't know what species made the
 first tools, but we know tools were used by the the first species of _Homo_,
 _Homo habilis_ (2.5 MYA to 1.5 MYA).  Habilis was bipedal, and used stone and
-bone tools.  These first stone tools are called the _Oldowan Industry_, which were made by striking a stone (with another stone) to create a sharp edge.
+bone tools.  These first stone tools are called the _Oldowan Industry_, which
+were made by striking a stone (with another stone) to create a sharp edge.
 
-![Oldowan chopper](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pierre_taill%C3%A9e_Melka_Kunture_%C3%89thiopie_fond.jpg/289px-Pierre_taill%C3%A9e_Melka_Kunture_%C3%89thiopie_fond.jpg)
+![Oldowan chopper][OldowanChopper]
 
 Amongst the variety of _Homo_ species that appear and disappear in the period,
 _Homo erectus_ stands out (1.8 MYA to 70 KYA).  _Homo erectus_
-spread widely throughout Asia, and includes the famous _Peking Man_ fossil.
+spread widely throughout Asia, and includes the famous
+[Peking Man][PekingMan] and
+[Java Man][JavaMan] fossils.
 _H erectus_ refined tool-making and developed the _Archeulean Industry_, more
 refined stone tools that used pressure flaking to make long, two-sided edges.
 
-![Archeulean handaxes](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Biface_Cintegabelle_MHNT_PRE_2009.0.201.1_V2.jpg/320px-Biface_Cintegabelle_MHNT_PRE_2009.0.201.1_V2.jpg)
+![Archeulean handaxes][ArcheuleanHandaxe]
 
-To add to their accomplishments, _Homo erectus_ were the first hominins to master fire (about 300 KYA) [3].
+To add to their accomplishments, _Homo erectus_ were the first hominins to
+master fire (about 300 KYA) [2].
 
-[3] There is some evidence fire was used as early as 1.5 MYA, but it's not certain.
+[2] Fire was used much earlier, perhaps as early as 1.5 MYA, but it's not clear
+it was controlled use.
 
 ### Middle Paleolithic
 The _Middle Paleolithic_ started about 300 KYA, and ended about 50 KYA.  In
@@ -88,7 +90,7 @@ this period, _Homo neanderthalensis_ (400 KYA) and _Homo sapiens_ (250 KYA)
 appeared.  They further refined tool making technology to allow finer stone
 points, which were at times mounted on shafts to make spears.
 
-![Levallois points](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pointe_levallois_Beuzeville_MHNT_PRE.2009.0.203.2.jpg/320px-Pointe_levallois_Beuzeville_MHNT_PRE.2009.0.203.2.jpg)
+![Levallois points][LevalloisPoints]
 
 Also in this period, the first signs of _cultural modernity_ appear:
 
@@ -119,10 +121,10 @@ distinct styles of houses, tools, burials, etc.
 
 The Upper Paleolithic starts with Sapiens just starting to leave Africa, and
 with a wealth of other _Homo_ species in various parts of the planet.  It ends
-with Sapiens spread to almost everywhere[4], replacing (and perhaps
+with Sapiens spread to almost everywhere[3], replacing (and perhaps
 exterminating) all other species of _Homo_.
 
-[4] Except some islands (such as in the Pacific) that will be colonized much
+[3] Except some islands (such as in the Pacific) that will be colonized much
 later.
 
 Our extinct cousins
@@ -167,3 +169,13 @@ Summary (TL;DR)
 * 50 KYA: Cognitive revolution; advanced toolmaking and culture, Sapiens leave
   Africa and go almost everywhere.
 * 10 KYA: Glaciers recede, Sapiens dominance -- and history -- begins.
+
+
+[PekingMan]: https://en.wikipedia.org/wiki/Peking_Man
+[JavaMan]: https://en.wikipedia.org/wiki/Java_Man
+
+[OldowanChopper]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pierre_taill%C3%A9e_Melka_Kunture_%C3%89thiopie_fond.jpg/289px-Pierre_taill%C3%A9e_Melka_Kunture_%C3%89thiopie_fond.jpg "Oldowan choppers, from Wikipedia"
+
+[ArcheuleanHandaxe]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Biface_Cintegabelle_MHNT_PRE_2009.0.201.1_V2.jpg/320px-Biface_Cintegabelle_MHNT_PRE_2009.0.201.1_V2.jpg "Archeulean handaxes, from Wikipedia"
+
+[LevalloisPoints]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pointe_levallois_Beuzeville_MHNT_PRE.2009.0.203.2.jpg/320px-Pointe_levallois_Beuzeville_MHNT_PRE.2009.0.203.2.jpg "Levallois points, from Wikipedia"
