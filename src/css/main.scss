@@ -8,8 +8,6 @@ $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
-
 $text-color:       #111;
 $link-color:       lighten($text-color, 40%);
 $background-color: #fdfdfd;
@@ -19,11 +17,23 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
-$content-width:    800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$xlarge-screen: 1800px;
+$large-screen: 1280px;
+$medium-screen: 980px;
+$small-screen: 736px;
+$xsmall-screen: 480px;
+
+$spacing-unit:  30px;
+
+// Width of the content area
+$content-width-large: 830px;
+$header-width-large:  360px;
+
+$content-width-medium: 700px;
+$header-width-medium:  235px;
+
+$content-width-small: 460px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
