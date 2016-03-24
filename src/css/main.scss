@@ -10,6 +10,7 @@ $base-line-height: 1.5;
 
 $text-color:       #111;
 $link-color:       lighten($text-color, 40%);
+$footnote-color:   lighten($text-color, 20%);
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
@@ -27,11 +28,13 @@ $xsmall-screen: 480px;
 $spacing-unit:  30px;
 
 // Width of the content area
-$content-width-large: 830px;
-$header-width-large:  360px;
+$content-width-large: 800px;
+$header-width-large:  300px;
+$body-width-large: $content-width-large + $header-width-large + 3*$spacing-unit;
 
 $content-width-medium: 700px;
 $header-width-medium:  235px;
+$body-width-medium: $content-width-medium + $header-width-medium + 3/2*$spacing-unit;
 
 $content-width-small: 460px;
 
@@ -51,6 +54,5 @@ $content-width-small: 460px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
-        "syntax-highlighting"
+        "layout"
 ;

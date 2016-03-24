@@ -2,6 +2,7 @@
   "menuItem": [
     { "title": "Introduction", "href": "/index.html" },
     { "title": "Timeline of Life", "href": "/timelineOfLife.html"},
-    { "title": "Hominin Evolution", "href": "/homininEvolution.html"}
+    { "title": "Hominin Evolution", "href": "/homininEvolution.html"},
+    { "title": "Early Human Migrations", "href": "/earlyHumanMigrations.html"}
   ]
 }

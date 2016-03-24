@@ -29,16 +29,18 @@ around 7.5 MYA; this line is called the _hominins_[1].  For about 7 million year
 hominins were confined to Africa, but there were a wide number of species -- in
 fact, every year it seems we discover another new hominin species.
 
+<footnote>
 [1] It used to be called the _hominids_, but that term now refers to all of the
 great apes, although some people still use it in the old sense.  Confusingly,
 the clade that includes both the hominins and the chimpanzees
 is called _Homininae_.
+</footnote>
 
 Australopithecus
 -----------------
 About 3.5 MYA, equatorial Africa was home to a variety of
 primates, including the first bipedal genus, _Australopithecus_.  Similar in
-size and brain capacity to modern bonobos and chimpanezees, there is evidence
+size and brain capacity to modern bonobos and chimpanzees, there is evidence
 for some cognitive genetic changes and tool use, and the appearance of
 morphologically "modern" traits.  Australopiths are believed to be the ancestor
 taxon to the genus _Homo_, in which humans (_H. sapiens sapiens_) reside.  There
@@ -81,8 +83,11 @@ refined stone tools that used pressure flaking to make long, two-sided edges.
 To add to their accomplishments, _Homo erectus_ were the first hominins to
 master fire (about 300 KYA) [2].
 
+<footnote>
 [2] Fire was used much earlier, perhaps as early as 1.5 MYA, but it's not clear
 it was controlled use.
+</footnote>
+
 
 ### Middle Paleolithic
 The _Middle Paleolithic_ started about 300 KYA, and ended about 50 KYA.  In
@@ -124,8 +129,10 @@ with a wealth of other _Homo_ species in various parts of the planet.  It ends
 with Sapiens spread to almost everywhere[3], replacing (and perhaps
 exterminating) all other species of _Homo_.
 
+<footnote>
 [3] Except some islands (such as in the Pacific) that will be colonized much
 later.
+</footnote>
 
 Our extinct cousins
 -------------------

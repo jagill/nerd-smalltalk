@@ -1,7 +1,14 @@
 // Very Large screens
 body {
-  width: $large-screen;
+  width: $body-width-large;
   margin: 0 auto;
+}
+
+footnote {
+  display: block;
+  margin-bottom: 15px;
+  font-size: $small-font-size;
+  color: $text-color;
 }
 
 #header {
@@ -27,7 +34,7 @@ body {
 
 @include media-query($large-screen) {
   body {
-    width: $medium-screen;
+    width: $body-width-medium;
   }
 
   #header {
@@ -97,41 +104,4 @@ body {
       color: $link-color;
     }
   }
-}
-
-.site-title {
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
-}
-
-/**
- * Site footer
- */
-.site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
-}
-
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-/**
- * Page content
- */
-.page-content {
-}
-
-.page-heading {
-    font-size: 20px;
 }

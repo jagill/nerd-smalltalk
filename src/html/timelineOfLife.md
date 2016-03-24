@@ -30,8 +30,11 @@ oxygen.
 TLDR:
 - 4 BYA Life happened.
 
+<footnote>
 [1] Check out the [RNA world](https://en.wikipedia.org/wiki/RNA_world)
 hypothesis for an interesting discussion of a possible early mechanism.
+</footnote>
+
 
 Pre-Animal Life
 ---------------
@@ -76,7 +79,7 @@ animals, as well as many things that suggest evolution was either drunk or
 wicked cool.  Google for Cambrian images, you won't be disappointed.
 
 The _Ordovician Period_ (500-450 MYA) saw the first primitive fish evolve, and
-land was first colonized by athropods.  The sea was filled with invertebrates,
+land was first colonized by arthropods.  The sea was filled with invertebrates,
 including many that would be familiar to us today.  Unfortunately, at the very
 end of the Ordovician was the first global mass extinction, when 60% of marine
 invertebrates went extinct due to another rendition of Snowball Earth.
@@ -153,8 +156,8 @@ positions, and primates arose.
 
 The _Paleogene_ (65 to 25 MYA) saw life recover from the Cretaceous extinction
 event.  Sharks replaced reptiles as the rulers of the sea, to be replaced
-themselves by carniverous whales.  The jungles were slowly replaced with
-grassland and forests, leading to a brief reign of large flightess birds
+themselves by carnivorous whales.  The jungles were slowly replaced with
+grassland and forests, leading to a brief reign of large flightless birds
 followed by mammals of diverse forms.  By the end of the Paleogene, almost all
 major orders of modern mammals and plants had evolved. Marsupials dominated
 South America, Antartica, and Australia, which only disconnected towards the
@@ -182,9 +185,12 @@ TLDR:
 - 3 MYA The current ice age started; hominins evolve.
 - 12 KYA The most recent glaciation ended, human history begins
 
+<footnote>
 [2] What the lay person calls an Ice Age, the climate scientist calls a
 _glaciation_.  An Ice Age is defined as when the earth has permanent glaciers,
 like those in Greenland or Antarctica.  We technically live an _interglacial_ period in an Ice Age.
+</footnote>
+
 
 Summary
 -------
@@ -195,4 +201,4 @@ you would recognize.  Reptiles (including dinosaurs) dominated for 200
 million years before being killed by a meteor, leading to 65 million years
 of mammalian domination.  First first ancestors of the human branch arose
 3 to 2 million years ago, leading to humans 200 thousand years ago.  Everything
-that humans have recorded has occured in the last 10 thousand years.   
+that humans have recorded has occurred in the last 10 thousand years.   
