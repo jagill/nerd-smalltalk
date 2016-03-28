@@ -7,6 +7,7 @@ footer = require 'gulp-footer'
 handlebars = require 'handlebars'
 Path = require 'path'
 mime = require 'mime'
+map = require 'map-stream'
 simple = require './gulp-simple-module'
 
 
