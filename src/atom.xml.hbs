@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>{{ feedTitle }}</title>
+	<subtitle>{{ feedSubtitle }}</subtitle>
+	<link href="{{ baseUrl }}/atom.xml" rel="self" />
+	<link href="{{ baseUrl }}/" />
+	<id>urn:uuid:{{ feedId }}</id>
+	<updated>{{ updatedTimestamp }}</updated>
+  <author>
+    <name>James Gill</name>
+  </author>
+  <!-- <icon></icon> -->
+
+  {{#each posts}}
+    {{#if id}}
+    	<entry>
+    		<title>{{ title }}</title>
+    		<link rel="alternate" href="{{../baseUrl}}{{ href }}" />
+    		<id>urn:uuid:{{ id }}</id>
+    		<updated>{{ published }}</updated>
+    		<summary>{{ summary }}</summary>
+    	</entry>
+    {{/if}}
+  {{/each}}
+
+</feed>

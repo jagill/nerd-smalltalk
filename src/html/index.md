@@ -12,10 +12,11 @@ Topics in science, history, or similar subjects that I think the well-educated
 person should have at least a passing familiarity with, including:
 
 * Early human evolution
+* Timeline of the evolution of life
 * The Bronze Age
 * DNA translation and transcription
+* Viruses
 * Basic climate science
-* Timeline of the evolution of life
 * and more...
 
 While I think people should be passingly familiar with these subjects, the
@@ -37,7 +38,7 @@ starting point to explore further, if you are so intrigued.
 How long are the articles?
 --------------------------
 Lengths vary, but we try to keep them to a few hundred 80-character lines.
-They should take somewhere from 15 minutes to an hour to read, but longer if
+They should take somewhere from 15 to 30 minutes to read, but longer if
 you want to look up extra material and dive into Wikipedia.
 
 Are these articles original scholarship?

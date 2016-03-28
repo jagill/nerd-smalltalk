@@ -1,8 +1,33 @@
 {
-  "menuItem": [
-    { "title": "Introduction", "href": "/index.html" },
-    { "title": "Timeline of Life", "href": "/timelineOfLife.html"},
-    { "title": "Hominin Evolution", "href": "/homininEvolution.html"},
-    { "title": "Early Human Migrations", "href": "/earlyHumanMigrations.html"}
+  "feedTitle": "Nerd Smalltalk",
+  "feedSubtitle": "Stuff worth talking about.",
+  "baseUrl": "http://nerd-smalltalk.com",
+  "feedId": "17527a5a-ee28-4fbe-a961-1aa7e65237e7",
+  "posts": [
+    {
+      "title": "Introduction",
+      "href": "/index.html"
+    },
+    {
+      "title": "Timeline of Life",
+      "href": "/timelineOfLife.html",
+      "id": "0d73685c-ec83-4713-841a-6d8b97b2f28a",
+      "published": "2016-03-12T21:00:00Z",
+      "summary": "Once Earth was a barren rock; now it is teeming with diverse life.  When did life first start, and how did it evolve into humans?  When were the first animals?  Was there a time when amphibians ruled the land?  This NST will answer those questions, and many more."
+    },
+    {
+      "title": "Hominin Evolution",
+      "href": "/homininEvolution.html",
+      "id": "25c6d9ee-f7c7-4c47-96fd-1e52a1fc74da",
+      "published": "2016-03-16T21:00:00Z",
+      "summary": "Hominins -- the evolutionary line of humans -- started out as just another ape, local to Africa and not particularly special.  They evolved to creatures that dominate the planet.  In this NST, we'll talk about the time from when they diverged from the other primates, to when humans had eliminated all other hominins and spread across the world."
+    },
+    {
+      "title": "Early Human Migrations",
+      "href": "/earlyHumanMigrations.html",
+      "id": "18552837-039c-4a38-b492-24cac842ac8c",
+      "published": "2016-03-19T21:00:00Z",
+      "summary": "Once humans were confined to Africa, yet now they are all over the world.  The story of how this came to be is complex and fascinating, involving many waves of migration, conquest, and intermarriage.  In this NST, we'll talk about the major human migrations of the Stone Age.  We'll also talk about several later ones (e.g. the Polynesians) which are important to know.  After reading this note, you should be to know roughly how and when each major population group got to their ancestral home."
+    }
   ]
 }

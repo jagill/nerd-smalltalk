@@ -7,15 +7,19 @@
   <title>Nerd Small Talk</title>
   <meta name="description" content="Small talk for nerds. Stuff that's worth talking about.">
   <link rel="stylesheet" type="text/css" href="/main.css">
+  <link href="atom.xml" type="application/atom+xml" rel="alternate" title="NST ATOM Feed" />
 </head>
 <body>
   <header id="header">
     <h1>Nerd Small Talk</h1>
     <p class="subheader"><em>Stuff worth talking about.</em></p>
     <ul>
-      {{#each menuItem}}
+      {{#each posts}}
         <li><a href={{ href }}>{{ title }}</a>
       {{/each}}
     </ul>
+    <div>
+      <a href="/atom.xml"><img class="rss" src="/assets/rss.svg" /></a>
+    </div>
   </header>
   <div id="main">

@@ -4,24 +4,24 @@ sass = require 'gulp-sass'
 marked = require 'gulp-marked'
 header = require 'gulp-header'
 footer = require 'gulp-footer'
-render = require 'gulp-handlebars-render'
-map = require('map-stream')
+handlebars = require 'handlebars'
 Path = require 'path'
 mime = require 'mime'
+simple = require './gulp-simple-module'
+
 
 # AWS CONFIG
 AWS = require 'aws-sdk'
 credentials = new AWS.SharedIniFileCredentials profile: 'nst'
 AWS.config.credentials = credentials;
 
+dist = './dist/'
+bucket = 'nerd-smalltalk.com'
+
 headerText = fs.readFileSync('src/_header.html')
 footerText = fs.readFileSync('src/_footer.html')
-sidebarData = JSON.parse fs.readFileSync('src/metadata.json')
 
-
-dist = './dist/'
-
-bucket = 'nerd-smalltalk.com'
+metadata = JSON.parse fs.readFileSync('src/metadata.json')
 
 
 gulp.task 'html', ->
@@ -29,7 +29,7 @@ gulp.task 'html', ->
     .pipe marked()
     .pipe header(headerText)
     .pipe footer(footerText)
-    .pipe render sidebarData
+    .pipe simple(compileHandlebars(metadata))
     .pipe gulp.dest(dist)
 
 gulp.task 'css', ->
@@ -37,7 +37,16 @@ gulp.task 'css', ->
     .pipe sass()
     .pipe gulp.dest(dist)
 
-gulp.task 'build', ['html', 'css']
+gulp.task 'rss', ->
+  gulp.src 'src/atom.xml.hbs'
+    .pipe simple(compileHandlebars(metadata))
+    .pipe gulp.dest(dist)
+
+gulp.task 'assets', ->
+  gulp.src 'src/assets/**'
+    .pipe gulp.dest(dist + 'assets/')
+
+gulp.task 'build', ['html', 'css', 'rss', 'assets']
 
 # gulp.watch './src/html/**', ['html']
 # gulp.watch '.src/css/**', ['css']
@@ -66,3 +75,15 @@ toS3 = (file, cb) ->
       else
         console.log "Updated #{relPath} to version #{data.VersionId}"
   cb()
+
+compileHandlebars = (data) ->
+  return (file) ->
+    template = handlebars.compile file.contents.toString()
+    file.contents = new Buffer(template(data))
+    file.path = stripPathSuffix(file.path, '.hbs')
+    return file
+
+stripPathSuffix = (filepath, suffix) ->
+  if Path.extname(filepath) is suffix
+    filepath = filepath.slice(0, -1*suffix.length)
+  return filepath
