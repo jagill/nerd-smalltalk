@@ -81,7 +81,7 @@ footnote {
 
 @include media-query($small-screen) {
   body {
-    width: $small-screen;
+    width: $content-width-small;
   }
 
   #header {

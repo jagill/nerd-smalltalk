@@ -199,6 +199,6 @@ history to produce eukaryotic life, and 7/8ths to produce animals.  After
 that, it was a quick 500 million years to cycle through all life that
 you would recognize.  Reptiles (including dinosaurs) dominated for 200
 million years before being killed by a meteor, leading to 65 million years
-of mammalian domination.  First first ancestors of the human branch arose
+of mammalian domination.  The first ancestors of the human branch arose
 3 to 2 million years ago, leading to humans 200 thousand years ago.  Everything
 that humans have recorded has occurred in the last 10 thousand years.   
