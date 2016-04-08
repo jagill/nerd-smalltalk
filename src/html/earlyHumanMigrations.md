@@ -146,7 +146,7 @@ the hunter-gatherer populations there as well.
 
 Kurgan Hypothesis
 -----------------
-Genetically, Modern Europeans are primarily a combination of three groups.  The
+Genetically, modern Europeans are primarily a combination of three groups.  The
 first is the original paleolithic/mesolithic hunter-gatherers, the second is
 the neolithic farmers.  The third significant contribution comes from a
 population of northwest Asian steppe nomads.  These are postulated
