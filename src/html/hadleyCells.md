@@ -42,8 +42,10 @@ Hadley Cells
 The Sun is most intense at the equator, since it is "directly above" there, and
 its rays hit the surface almost perpendicularly.  This means, if you average
 over the day/night cycle (called "zonally averaged"), the equator has more of
-this upwelling air than latitudes further poleward.  When it expands, it must
-expand poleward, which sets up an air flow (in the Tropopause) towards the
+this upwelling air than latitudes further poleward.  The air builds up above
+the equator, and needs to spread out.  Since this is happening all along the
+equator, it cannot spread east or west, so it must spread north and south.
+This causes an air flow in the Tropopause above the equator towards the
 poles.
 
 If the earth wasn't rotating, this flow would continue poleward until it hit
@@ -60,9 +62,9 @@ a somewhat involved calculation finds the latitude of sinking to be about 30º.
 In Climatology, the latitudes near 30º are called the _subtropics_, and this
 band of sinking air is called the _Subtropical Ridge_.
 
-Remember that the air lost much of its heat and moisture in the original ascent;
-it continues to cool and dry out on its poleward journey.  Thus the air that
-comes down at 30º is cold and dry, greatly decreasing how much rain occurs at
+Remember that the air lost much of its moisture in the original ascent; it
+continues to precipitate and dry out on its poleward journey.  Thus the air that
+comes down at 30º is very dry, greatly decreasing how much rain occurs at
 that latitude.
 
 This is the Hadley Cell, which causes increased rainfall near the equator, and
@@ -113,16 +115,17 @@ that the sun was directly above the equator, thus the upwelling of warm, humid
 air was at the equator.  However, the axis of the Earth's rotation is tilted
 with respect the orbital plane, by about 23º.  When the north pole is pointed
 towards the sun (ie, northern Summer/southern Winter), the sun is over 23ºN
-latitude, and similarly for the south.  The tropical upwelling similarly tracks
+latitude, and similarly for the south pole.  The tropical upwelling similarly tracks
 the Sun's latitude, although oceanic effects dampens the migration.  Even with
 the dampening, this zone can migrate from 15ºN to 15ºS.
 
 The Subtropical Ridge is sourced by the tropical upwelling, and when the
 upwelling moves, so does the ridge.  In the Summer, the ridge and its associated
-dry, rainless weather moves poleward, and in the Winter it moves south.
+dry, rainless weather moves toward the summer pole, and in the Winter it has
+crossed the equator and moved towards the opposite pole.
 Regions with a Mediterranean climate are in the ridge in the Summer and get
-no rain; in the Winter the ridge has moved southward and the rains return.  The
-further north the region, the fewer months of the year they are in the ridge.
+no rain; in the Winter the ridge has moved away and the rains return.  The
+further poleward the region, the fewer months of the year they are in the ridge.
 For example, Seattle is at about 47ºN and gets only about a month (about August)
 of the dry ridge weather, while San Francisco is about 37ºN and is in the ridge
 roughly between May and October, about half a year.
