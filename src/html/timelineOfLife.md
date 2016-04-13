@@ -201,4 +201,10 @@ you would recognize.  Reptiles (including dinosaurs) dominated for 200
 million years before being killed by a meteor, leading to 65 million years
 of mammalian domination.  The first ancestors of the human branch arose
 3 to 2 million years ago, leading to humans 200 thousand years ago.  Everything
-that humans have recorded has occurred in the last 10 thousand years.   
+that humans have recorded has occurred in the last 10 thousand years.
+
+See also
+--------
+Coursera, [_Emergence of Life_](https://www.coursera.org/course/emergenceoflife)
+
+Coursera, [_Dino 101: Dinosaur Paleobiology_](https://www.coursera.org/course/dino101)

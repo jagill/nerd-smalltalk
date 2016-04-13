@@ -177,7 +177,12 @@ Summary (TL;DR)
   Africa and go almost everywhere.
 * 10 KYA: Glaciers recede, Sapiens dominance -- and history -- begins.
 
+See also
+--------
+Cousera, [_Human Evolution: Past and Future_](https://www.coursera.org/course/humanevolution)
 
+
+<!-- Links -->
 [PekingMan]: https://en.wikipedia.org/wiki/Peking_Man
 [JavaMan]: https://en.wikipedia.org/wiki/Java_Man
 
