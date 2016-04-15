@@ -71,15 +71,18 @@ TLDR:
 The Start of "Modern" Life
 --------------------------
 The _Paleozoic Era_ (550 to 250 MYA) set the stage for modern life as we know it.
-It is comprised of six periods:
 
-The _Cambrian Period_ (550-500 MYA) witnessed the Cambrian Explosion, when the
+In the _Cambrian period_ (550-500 MYA) the
 first emergence of multi-cellular life resulted in virtually all major phyla of
 animals, as well as many things that suggest evolution was either drunk or
-wicked cool.  Google for Cambrian images, you won't be disappointed.
+wicked cool.  This is aptly named the Cambrian Explosion.  Google for Cambrian
+images, you won't be disappointed.
 
-The _Ordovician Period_ (500-450 MYA) saw the first primitive fish evolve, and
-land was first colonized by arthropods.  The sea was filled with invertebrates,
+![Cambrian Seascape](/assets/cambrian.jpg)
+
+Shortly thereafter in _Ordovician period_ (500-450 MYA), the first primitive
+fish evolved, and arthropods colonized the land.
+The sea was filled with invertebrates,
 including many that would be familiar to us today.  Unfortunately, at the very
 end of the Ordovician was the first global mass extinction, when 60% of marine
 invertebrates went extinct due to another rendition of Snowball Earth.
@@ -90,13 +93,19 @@ centipedes, fungi, vascular plants).
 
 The _Devonian Period_ (400-350 MYA) was known as "The Age of Fish", because fish
 radiated immensely and became dominant.  On land, trees and seeded plants
-evolved, along with amphibians.  The Devonian ended with the second global mass
+evolved, along with amphibians. The Devonian ended with the second global mass
 extinction.
 
-The _Carboniferous Period_ (350-300 MYA) was an era of swamps.  Much of our
-fossil fuels come from these swamps (hence the name).  Reptiles and synapsids
-(the ancestors of mammals) appeared with the evolution of the amniotic egg,
-which allowed them to head inland and expand.
+The _Carboniferous Period_ (350-300 MYA) was an era of swamps.
+From amphibians evolved reptiles and synapsids
+(which were the ancestors of mammals).  Their evolutionary invention was the
+amniotic egg, which allowed them to colonize inland areas.
+Almost all of our fossil fuels come from this period (hence the name).
+Trees had evolved complex structural polymers called
+_lignins_, which nothing had yet learned to eat.  However, at the end of the
+Carboniferous _white rot fungi_ (which include many of our edible mushrooms)
+evolved the ability to break down lignin, virtually ending the production of
+fossil fuels.
 
 The final Period of this Era is the _Permian_ (300-250 MYA), when the famed
 Pangaea formed and the world dried out.  Reptiles and synapsids flourished,
@@ -133,7 +142,7 @@ forms of crocodillians died out in this event.
 The _Jurassic Period_ (200 to 150 MYA) was dominated by dinosaurs and other large
 reptiles, including the famous Stegosaurus and the long-necked Sauropods liked
 the Brontosaurus. The first mammals evolved, but were very small.  Pangaea
-broke up, which caused the Jurrasic-Cretaceous extinction.
+broke up, which caused the Jurassic-Cretaceous extinction.
 
 The _Cretaceous Period_ (150 to 65 MYA) had most of the iconic dinosaurs.  Tyrannosaurus Rex
 and Triceratops evolved, as did birds and flowers.  The climate grew steadily
