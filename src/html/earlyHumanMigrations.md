@@ -5,7 +5,7 @@ story of how this came to be is complex and fascinating, involving many waves
 of migration, conquest, and intermarriage.  In this NST, we'll talk about the
 major human migrations of the Stone Age.  We'll also talk about several later
 ones (e.g. the Polynesians) which are important to know.  After reading this
-note, you should be to know roughly how and when each major population group
+note, you should know roughly how and when each major population group
 got to their ancestral home.
 
 
@@ -141,7 +141,7 @@ neolithic cultures.
 ![Neolithic Axe][NeolithicAxe]
 
 The neolithic wave also swept through parts of North Africa, merging in with
-the hunter-gatherer populations there as well.
+the hunter-gatherer populations there.
 
 
 Kurgan Hypothesis
@@ -153,7 +153,7 @@ population of northwest Asian steppe nomads.  These are postulated
 also to be the group that brought Indo-European languages; some researchers also
 believe them to have domesticated the horse and developed the chariot.
 
-One theory (contested, of course) grouped several potentially related cultures
+One theory (contested, of course) groups several potentially related cultures
 under the moniker _Kurgan_; this is called the "Kurgan Hypothesis."  This dates
 the initial development in the Pontic plains (north of the Caucuses) to about
 4000 BCE, with expansion into eastern Europe and northern Anatolia about 2500
