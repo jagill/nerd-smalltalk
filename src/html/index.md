@@ -51,7 +51,7 @@ than forget that it occured 542 million years ago.  I have attempted to keep
 things simple by rarely mentioning alternatives to the dominant scholarly
 consensus, and I expect any specialist who reads these articles to shake their
 head in sadness.  That probably also holds true for the non-specialist who's
-read a introductory book on the subject.  Which I whole-heartedly recommend you
+read an introductory book on the subject.  Which I whole-heartedly recommend you
 do after reading the article; it'll just take you longer.
 
 
