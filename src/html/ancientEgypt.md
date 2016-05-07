@@ -394,8 +394,8 @@ often become more Egyptian than the natives.
 See also
 --------
 Emily Teeter, _Before the Pyramids: The Origins of Egyptian Civilization_
-:    [Online book](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oimp33.pdf)
-:    [Youtube video](https://www.youtube.com/watch?v=GEWGy6gP1jw)
+[Online book](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/oimp33.pdf)
+[Youtube video](https://www.youtube.com/watch?v=GEWGy6gP1jw)
 
 Kuper, Kröpelin, _Climate-Controlled Holocene Occupation in the Sahara: Motor of Africa's Evolution_
 [Science Article](http://science.sciencemag.org/content/313/5788/803)
