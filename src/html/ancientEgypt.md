@@ -16,13 +16,15 @@ upstream.  It was very fertile: regular flooding[1] provided predictable
 irrigation and fertilization, augmented by ample sunlight.  Additionally, the
 desert to the east was rich in gold.
 
+![Ancient Egypt Map][]
+
 The Nile flows north from Khartoum (in current Sudan) approximately 3000 km to
 the Nile Delta, draining into the Mediterranean.  Upstream/south of Khartoum
 the Nile splits into the Blue Nile (which sources from Ethiopia) and the White
 Nile (which comes Lake Victoria and further south).  Between Khartoum and the
-Mediterranean are six cataracts that impede navigation; there have often been
-military and/or commercial checkpoints at the cataracts.  Ancient Egypt is
-based on the portion of the Nile between the first cataract (at Aswan) and the
+Mediterranean are six cataracts that impede navigation; these have often hosted
+military and/or commercial checkpoints.  Ancient Egypt was
+located on the portion of the Nile between the first cataract (at Aswan) and the
 Mediterranean.  South of Aswan lies the land called Nubia or Kush.
 
 Egypt was divided geographically and politically into Lower Egypt and Upper
@@ -76,7 +78,7 @@ against chaos.  Groupings of kings, called _Dynasties_, were used since
 ancient times to describe Egypt's chronology. Dynasties
 represent lineages of kings, connected by family relations as well as the
 location of their seat of power.  Some dynasties (especially those in the
-stable Kingdom periods) last a long time; some dynasties (especially those
+stable Kingdom periods) lasted a long time; some dynasties (especially those
 in the less-stable Intermediate periods) were quite short.
 
 Later authors have grouped these dynasties into well-established _Periods_.
@@ -95,7 +97,6 @@ these has coherent aspects that we'll describe.
 | New Kingdom      | 1500 - 1100 | 18 - 20   |
 | 3rd Intermediate | 1100 - 700  | 21 - 25   |
 | Late Period      |  700 - 300  | 26 - 31   |
-
 
 <footnote>
 [1] "Pharaoh" is a Hellenized term that originally referred to the place that
@@ -166,14 +167,14 @@ splintering Egypt once again.
 [3] Nubian troops -- famed for their skill with the bow -- formed an elite corps
 of Egyptian troops.
 <br />
-[4] The Hyksos brought, amongst other technological innovations, the horse and
+[4] The Hyksos brought -- amongst other technological innovations -- the horse and
 chariot, which changed Egyptian warfare forever.
 </footnote>
 
 
 ### The Second Intermediate Period (1700 - 1500 BCE)
 
-The Hyksos invasion split Egypt once again.  The Hyksos kings ruled the north,
+The Hyksos kings ruled the north,
 while the remnants of the Egyptian kings ruled two independent kingdoms in
 the middle and the south.  The Nubian Kush empire expanded from the south, pushing
 up against the southern borders of Upper Egypt.
@@ -423,6 +424,7 @@ edX, [_Western Civilization: Ancient and Medieval Europe_](https://www.edx.org/c
 [The Bent Pyramid]: /assets/bentPyramid.jpg
 [The Red Pyramid]: /assets/redPyramid.jpg
 
+[Ancient Egypt Map]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ancient_Egypt_map-en.svg/293px-Ancient_Egypt_map-en.svg.png
 [Old Kingdom Map]: https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Old_Kingdom_of_Egypt_map.png/124px-Old_Kingdom_of_Egypt_map.png
 [New Kingdom Map]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Egypt_1450_BC.svg/208px-Egypt_1450_BC.svg.png
 
