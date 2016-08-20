@@ -9,6 +9,13 @@
       "href": "/index.html"
     },
     {
+      "title": "Deserts and Hadley Cells",
+      "href": "/hadleyCells.html",
+      "id": "4807e361-4f3f-44de-89ec-9d1212dc1023",
+      "published": "2016-04-09T21:00:00Z",
+      "summary": "Take a look at a world map (or perhaps Google Earth).  Look west to east along 30º latitude (North or South).  Notice the preponderance of deserts on these parallels; in the north we have northern Mexico and the American Southwest, the Sahara, and the Arabian desert.  In the south, we have the Atacama desert, the Namibian desert, the Kalahari, and the Australian Outback.  In fact, almost all the worlds major deserts are along these parallels.  Furthermore, all of the Mediterranean climates occur just poleward of these deserts, on the west coasts of continents. This (and more) is caused by a fascinating phenomenon called Hadley Cells."
+    },
+    {
       "title": "Timeline of Life",
       "href": "/timelineOfLife.html",
       "id": "0d73685c-ec83-4713-841a-6d8b97b2f28a",
@@ -35,13 +42,6 @@
       "id": "caf4837b-7ae8-4c78-99ab-7a71278a95a7",
       "published": "2016-05-07T21:00:00Z",
       "summary": "How did the civilization of Ancient Egypt start?  When did it end, or did it? What's the difference between the Old Kingdom and the New Kingdom?  We've all grown up with images of Ancient Egypt in our heads, but with precious few details of this amazing civilization.  This ambitious NST will lay a framework for the evolution of a land that has borne countless people, cities, and cultures for over 6,000 years."
-    },
-    {
-      "title": "Deserts and Hadley Cells",
-      "href": "/hadleyCells.html",
-      "id": "4807e361-4f3f-44de-89ec-9d1212dc1023",
-      "published": "2016-04-09T21:00:00Z",
-      "summary": "Take a look at a world map (or perhaps Google Earth).  Look west to east along 30º latitude (North or South).  Notice the preponderance of deserts on these parallels; in the north we have northern Mexico and the American Southwest, the Sahara, and the Arabian desert.  In the south, we have the Atacama desert, the Namibian desert, the Kalahari, and the Australian Outback.  In fact, almost all the worlds major deserts are along these parallels.  Furthermore, all of the Mediterranean climates occur just poleward of these deserts, on the west coasts of continents. This (and more) is caused by a fascinating phenomenon called Hadley Cells."
     }
   ]
 }
