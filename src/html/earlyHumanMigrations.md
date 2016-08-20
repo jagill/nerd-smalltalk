@@ -22,7 +22,7 @@ insular South-East Asia.
 This time was during a glaciation period; correspondingly the sea levels were
 significantly lower than today.  This changed the coastlines, and in particular
 four major areas currently underwater were part of the continents:
-  * *Doggerland* The land current under the English Channel, connecting Britain
+  * *Doggerland* The land currently under the English Channel, connecting Britain
     to mainland Europe.
   * *Sundaland* The land comprising most of insular Southeast Asia, connecting
     what is now Thailand, Malaysia, and the western islands of Indonesia.
@@ -46,7 +46,7 @@ By 45 KYA they had expanded into Europe (nearly reaching the Arctic
 circle), mainland Asia, and as far as Australia.  By 30 KYA, humans had reached
 Japan and Siberia.
 
-Many of these lands were occupied by Neanderthals, _H erectus_, or other
+Many of these lands were occupied by Neanderthals, _Homo erectus_, or other
 archaic _Homo_ populations.  Within a several thousand years of humans
 arriving, these archaic populations disappeared.  The most likely hypothesis
 is that they were out-competed and likely exterminated by humans, although

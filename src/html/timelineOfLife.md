@@ -197,7 +197,8 @@ TLDR:
 <footnote>
 [2] What the lay person calls an Ice Age, the climate scientist calls a
 _glaciation_.  An Ice Age is defined as when the earth has permanent glaciers,
-like those in Greenland or Antarctica.  We technically live an _interglacial_ period in an Ice Age.
+like those in Greenland or Antarctica.  We technically live in an _interglacial_
+period in an Ice Age.
 </footnote>
 
 
