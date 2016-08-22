@@ -20,6 +20,8 @@ these might have been forced to participate in the Minoan bull festivals.  These
 early form of bullfighting were far more dangerous to the humans than the bulls,
 and may be the basis of the myth of Perseus and the Minotaur.
 
+![Palace of Knossos][]
+
 Around 1500 BCE, their civilization was shook by a massive volcanic eruption and
 went into decline.  The Greek Mycenaeans conquered them in their weakened state,
 inhabiting their palaces and taking over their trade routes.
@@ -35,7 +37,10 @@ Mycenaeans
 The Mycenaeans comprise the first major Greek civilization, and the ones
 described in the Trojan War.  Warlike and able
 traders, they overthrew their Minoan masters, controlled their major cities, and
-adopted much of their cultural sophistication, including writing[2].
+adopted much of their cultural sophistication, including writing[2].  The Mycenaeans
+period provides the semi-historical basis for many of the myths of ancient
+Greece, including the Trojan Horse, Odysseus, Achilles, Hercules, Jason
+and the Argonauts, Perseus, and Theseus.
 
 The Mycenaeans did things on a grand scale.  They traded from the Black Sea to
 Iberia, with secondary trade to the British Isles and the Baltic.  They had advanced
@@ -48,6 +53,8 @@ the Egyptians, Assyrians, or Babylonians.  Their elite were buried with immense
 treasure, their palaces were vast, and their fortresses had massive walls constructed
 from stone blocks so large that the later Greeks said only a cyclops could have moved
 them.
+
+![Citadel of Mycenae][]
 
 Their end was abrupt, and the cause is debated.  The most popular theory is the
 invasion of the Doric tribes (also a Greek people) or the Sea Peoples.  Whatever
@@ -175,11 +182,15 @@ a night of feasting and drinking (some allege poison).  At his death at the
 age of 33, he was undefeated in battle, having created one of the greatest and
 largest empires in history.
 
+![Empire of Alexander][]
+
 Control of his empire passed hastily to his generals, which quickly devolved into
 warfare, intrigue, and assassination.  After 20 years, his empire was divided
 into three main parts: the Macedonian Empire (including Greece), the Egyptian
 Empire of Ptolemy, and the Seleucid Empire of Syria and Persia.  This balance of
 power held until a new threat arose in the west.
+
+![Empire after Alexander][]
 
 Rome and After
 ---------
@@ -212,3 +223,11 @@ government -- democracy -- into the world, although it survived only a short whi
 Through Alexander, Hellenic influence in government, philosophy, science, and
 the arts spread from Iberia to Egypt to India.  And of course, it provided one
 of the fundamental pillars of western civilization.
+
+
+<!-- Links -->
+
+[Palace of Knossos]: http://sasgreekart.pbworks.com/f/knoss_04.jpg
+[Citadel of Mycenae]: https://arsartisticadventureofmankind.files.wordpress.com/2013/11/d1.png?w=431&h=287
+[Empire of Alexander]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MacedonEmpire.jpg/640px-MacedonEmpire.jpg
+[Empire after Alexander]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Diadochen1.png/640px-Diadochen1.png
